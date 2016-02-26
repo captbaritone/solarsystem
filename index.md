@@ -4,13 +4,7 @@ layout: page
 
 # Petaluma Solar System Model
 
-This page has details about the project.
+A scale model of the solar system in [Petaluma
+California](https://en.wikipedia.org/wiki/Petaluma,_California).
 
-* Bullet points
-* Start with asterix or dashes
-
-You can _emphisize_ a word, or __really emphisize it__.
-
-[Links](https://google.com) work like this.
-
-![An Image](http://urlme.me/success/typed_a_url/inserted_an_image.jpg)
+More to come soon!
