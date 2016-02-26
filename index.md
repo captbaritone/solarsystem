@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# This is a heading
+# Petaluma Solar System Model
 
 This page has details about the project.
 
